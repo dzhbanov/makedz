@@ -4,3 +4,12 @@ language: bash
 
 before_install:
   - curl https://raw.githubusercontent.com/express42/otus-homeworks/2019-02/run.sh | bash
+notifications:
+  slack:
+    rooms:
+      secure:
+NOaYWn5sLoZJkEW4kRsU8BwLvDzEsGALlgNsFlZntmq++S/YoHckcHQjvgLYJ0FhdkgKEEkX8aHaDTXqyDjhmg4c
++teQziqVyF+Qy+Nh7iz58D/R//m6243VXMgIx+SHcw7+ghAqbEejZYV/PlkS9W9rFW6k16YjlSRjgMiaxgx
++cu14Xrs5Amy3eNVnFevK5aKIJrjcRvrA6VcZX/+jCcobUknpZqKLiIVmpH+5T5NbD74BX/v9ceob1jYAz6w8hQt
++/sQQ5sJWx+kSi+qY56dJoVrit9w3OmxuM3Lo9iZYn8zAse7XFyKQnSHi06iI9IInalzwOgDfanb0Vgvs7m
++xCN9UmPR2Ce31Aq7dQQ7ajOF++qETvX5BljUuKa+zlH5VsYirRZ+4fKjQ6BNy+Xr=
